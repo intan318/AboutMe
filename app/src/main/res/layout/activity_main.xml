@@ -21,6 +21,23 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:srcCompat="@android:drawable/btn_star_big_on"
-            android:id="@+id/imgStar" android:contentDescription="@string/yellow_star" android:layout_marginTop="12dp"/>
+            android:id="@+id/imgStar"
+            android:contentDescription="@string/yellow_star"
+            android:layout_marginTop="12dp"/>
+
+    <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    >
+        <TextView
+            android:id="@+id/txtBio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NameStyle"
+        />
+
+
+    </ScrollView>
 
 </LinearLayout>

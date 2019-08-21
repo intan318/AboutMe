@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Intan Yoshana.
+    \n\nI love listeting to some alt-rock songs when i\'m sad or bored.
+    \n\nMy Chemical Romance is one of my go-to songs when i feel sad.
+    \n\nAnd Foo Fighters come next
+    \n\nI love listeting to some alt-rock songs when i\'m sad or bored. \n
+    \n\nMy Chemical Romance is one of my go-to songs when i feel sad.
+    \n\nAnd Foo Fighters come next
+    \n\nI love listeting to some alt-rock songs when i\'m sad or bored. \n
+    \n\nMy Chemical Romance is one of my go-to songs when i feel sad.
+    \n\nAnd Foo Fighters come next
+    \n\nI love listeting to some alt-rock songs when i\'m sad or bored. \n
+    \n\nMy Chemical Romance is one of my go-to songs when i feel sad.
+    \n\nAnd Foo Fighters come next
+    </string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">done</string>
 </resources>
